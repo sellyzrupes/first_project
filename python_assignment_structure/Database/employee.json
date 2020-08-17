@@ -1,0 +1,54 @@
+{
+    "employees": [
+        {
+            "leave": 14, 
+            "team_id": 3, 
+            "name": "Administrator", 
+            "status_id": 1, 
+            "emp_id": 1000, 
+            "password": "123123", 
+            "email": "admin@shopi.com", 
+            "role_id": 3
+        }, 
+        {
+            "leave": 11, 
+            "team_id": 1, 
+            "name": "John Doe", 
+            "status_id": 1, 
+            "emp_id": 1001, 
+            "password": "123123", 
+            "email": "johndoe@shopi.com", 
+            "role_id": 1
+        }, 
+        {
+            "leave": 14, 
+            "team_id": 1, 
+            "name": "Susan Sue", 
+            "status_id": 1, 
+            "emp_id": 1002, 
+            "password": "123123", 
+            "email": "susan@shopi.com", 
+            "role_id": 2
+        }, 
+        {
+            "leave": 14, 
+            "team_id": 1, 
+            "name": "Chilli Sauce", 
+            "status_id": 1, 
+            "emp_id": 1003, 
+            "password": "123123", 
+            "email": "chilli@shopi.com", 
+            "role_id": 1
+        }, 
+        {
+            "leave": 11, 
+            "team_id": 1, 
+            "name": "Karen Kay", 
+            "status_id": 1, 
+            "emp_id": 1004, 
+            "password": "123123", 
+            "email": "karen@shopi.com", 
+            "role_id": 1
+        }
+    ]
+}
